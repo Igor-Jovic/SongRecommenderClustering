@@ -8,8 +8,3 @@ clusters to the database. The library itself is supplied as a jar in the root di
 
 In order to use this tool Song Database is needed along with necessary .csv files which can be found here 
 https://drive.google.com/drive/folders/0B3MZlBNxyLNuQzd0bFIwbzN6LXM?usp=sharing
-
-### Prerequisites
-
-In order to use this tool Song Database is needed along with necessary .csv files which can be found here 
-https://drive.google.com/drive/folders/0B3MZlBNxyLNuQzd0bFIwbzN6LXM?usp=sharing
