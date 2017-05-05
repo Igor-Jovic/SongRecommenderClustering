@@ -6,5 +6,5 @@ clusters to the database. The library itself is supplied as a jar in the root di
 
 ### Prerequisites
 
-In order to use this tool Song Database is needed along with necessary .csv files which can be found here 
+In order to use this tool songs database is needed along with necessary .csv files. The DB dump and .csv files can be found here 
 https://drive.google.com/drive/folders/0B3MZlBNxyLNuQzd0bFIwbzN6LXM?usp=sharing
